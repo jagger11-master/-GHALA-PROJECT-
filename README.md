@@ -1,4 +1,4 @@
-# 🏬 Ghala Project
+#<...> Ghala Project
 
 A full-stack web application that enables merchants to manage payment configurations, order processing, and warehouse operations efficiently.
 
