@@ -16,7 +16,7 @@ GHALA PROJECT/
 
 ---
 
-## 🧰 Technologies Used
+###Technologies Used
 
 ### 🔹 Frontend:
 - React.js
