@@ -4,7 +4,7 @@ A full-stack web application that enables merchants to manage payment configurat
 
 ---
 
-## 🚀 Project Structure
+#✓ Project Structure
 
 GHALA PROJECT/
 ├── ghala-frontend/ # React app for UI
